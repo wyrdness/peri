@@ -1,10 +1,8 @@
 {
-  "category": "FAE_FOLKLORE",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/peri",
     "maintainers": [
       {
@@ -18,334 +16,110 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "peri",
     "name": "Peri",
-    "aliases": [
-      {
-        "name": "Pari",
-        "language": "Persian/Urdu",
-        "meaning": "Variant spelling"
-      },
-      {
-        "name": "Fairy",
-        "language": "English",
-        "meaning": "Etymologically related; Western translation"
-      },
-      {
-        "name": "پری",
-        "language": "Persian (script)",
-        "meaning": "Peri (original)"
-      }
-    ],
+    "aliases": [],
     "category": "FAE_FOLKLORE",
-    "subcategory": "ENTITY_SPIRIT",
+    "subcategory": "Persian Supernatural Being",
     "tags": [
-      "persian-mythology",
-      "zoroastrian",
-      "benevolent-spirit",
-      "winged-being",
-      "fallen-angel",
-      "redemption",
-      "beauty",
-      "protective"
+      "&-meaning"
     ],
-    "status": "traditional_folklore",
+    "status": "documented",
     "description": {
-      "summary": "Beautiful, benevolent supernatural beings from Persian mythology. Winged spirits descended from fallen angels (in some traditions) who seek redemption and protect humans from evil.",
-      "full": "Peri (also pari) are supernatural beings from Persian mythology, depicted as extremely beautiful, winged creatures. According to some traditions, peri descended from fallen angels who were denied paradise for some impurity or transgression, and now seek redemption through good deeds. They are generally benevolent spirits who protect humans from evil forces, guide lost travelers, and oppose the malevolent divs (daevas). Peri possess powers including flight, magic, beauty that captivates mortals, and shape-shifting. They are said to sustain themselves on perfume and fragrance, living on the scent of flowers and sweet aromas. Originating from Persian/Zoroastrian traditions, peri were adapted into Islamic-era Persian literature and culture. They stand in opposition to divs/daevas, the evil spirits of Persian mythology. Peri influenced Western concepts of fairies and appear prominently in Persian poetry, particularly Thomas Moore's 'Lalla Rookh.' They represent themes of redemption, fallen grace, beauty, and the struggle between good and evil. Peri remain part of traditional Persian folklore and cultural heritage."
+      "summary": "They are generally **benevolent spirits** who protect humans from evil forces, guide lost travelers, and oppose the malevolent **divs** (daevas) — the evil spirits of Persian mythology.",
+      "full": "They are generally **benevolent spirits** who protect humans from evil forces, guide lost travelers, and oppose the malevolent **divs** (daevas) — the evil spirits of Persian mythology. Peri possess powers including flight, magic, beauty that captivates mortals, and shape-shifting. Uniquely, peri are said to sustain themselves on **perfume and fragrance**, living on the scent of flowers and sweet aromas rather than physical food. Originating from Persian/Zoroastrian traditions, peri were adapted into Islamic-era Persian literature and culture. They influenced Western concepts of fairies (the words are etymologically related) and appear prominently in Persian poetry, including Thomas Moore's famous \\\"Lalla Rookh.\\\" Peri represent themes of **redemption**, fallen grace, beauty, and guidance, embodying the eternal struggle between good and evil. ⚠️ **Cultural Sensitivity**: Peri are part of Persian/Zoroastrian cultural tradition and heritage."
     },
     "etymology": {
-      "origin": "From Persian 'پری' (peri/pari), possibly related to Avestan 'pairika' meaning witch or sorceress (though meanings evolved to benevolent beings). Related to English word 'fairy' through linguistic evolution.",
-      "meaning": "Fairy, winged spirit, beautiful being",
-      "first_use": "Ancient Persian/Zoroastrian traditions, pre-Islamic era"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "FAE_FOLKLORE",
-      "type": "ENTITY_SPIRIT",
-      "subtype": "Persian Supernatural Being",
-      "variant": "Winged Spirit"
+      "type": "Persian Supernatural Being",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "djinn",
-        "name": "Djinn/Jinn",
-        "relationship": "related",
-        "description": "Islamic supernatural beings, sometimes conflated with peri"
-      },
-      {
-        "id": "fairies",
-        "name": "Fairies",
-        "relationship": "linguistic_relative",
-        "description": "Western fairies etymologically related through linguistic evolution"
-      },
-      {
-        "id": "divs",
-        "name": "Divs/Daevas",
-        "relationship": "opposite",
-        "description": "Evil spirits/demons in Persian mythology, enemies of peri"
-      },
-      {
-        "id": "angels",
-        "name": "Angels",
-        "relationship": "related",
-        "description": "Peri sometimes described as fallen angels"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "appearance": "Extremely beautiful humanoid beings",
-      "features": [
-        {
-          "feature": "Wings",
-          "description": "Possess wings allowing flight",
-          "frequency": "always"
-        },
-        {
-          "feature": "Extraordinary beauty",
-          "description": "Captivating, ethereal beauty",
-          "frequency": "always"
-        },
-        {
-          "feature": "Luminous presence",
-          "description": "Often depicted with radiant, glowing appearance",
-          "frequency": "common"
-        },
-        {
-          "feature": "Delicate form",
-          "description": "Graceful, ethereal physical form",
-          "frequency": "always"
-        }
-      ],
-      "morphology": "Humanoid with wings. Appearance emphasizes beauty, grace, and otherworldly nature."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Flight",
-        "description": "Fly through the air with wings",
-        "frequency": "always",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Magic",
-        "description": "Possess magical powers and abilities",
-        "frequency": "common",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Captivating beauty",
-        "description": "Beauty that enchants and captivates mortals",
-        "frequency": "always",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Shape-shifting",
-        "description": "Can change form",
-        "frequency": "occasional",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Protection",
-        "description": "Protect humans from evil forces",
-        "frequency": "common",
-        "evidence_level": "folklore"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "disposition": "benevolent",
-      "sustenance": "Live on perfume and fragrance (scent of flowers)",
-      "patterns": [
-        "Protect humans from evil forces (divs)",
-        "Guide lost travelers",
-        "Seek redemption for past transgressions",
-        "Oppose malevolent spirits",
-        "Aid the virtuous"
-      ]
-    },
-    "nature": {
-      "origin_tradition_1": "Descended from fallen angels denied paradise",
-      "origin_tradition_2": "Ancient Persian spirits predating Islamic influence",
-      "moral_alignment": "Generally good, seeking redemption",
-      "relationship_to_humanity": "Protective, benevolent, sometimes romantic involvement with mortals"
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Persian/Iranian cultural sphere, with influence extending to surrounding regions through cultural and literary exchange.",
-      "continents": ["Asia"],
-      "countries": ["Iran", "Afghanistan", "Tajikistan", "Pakistan", "India", "Central Asian regions"],
-      "regions": [
-        "Greater Persia/Iran",
-        "Central Asia",
-        "Parts of South Asia (through Persian literary influence)"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "cultural_centers": [
-      {
-        "name": "Persia/Iran",
-        "significance": "Origin and primary source of peri traditions",
-        "notes": "Persian poetry and literature central to peri mythology"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Pre-Islamic era",
+        "date": "Unknown",
         "circa": true,
-        "source": "Ancient Persian/Zoroastrian traditions"
-      },
-      "islamic_era_adaptation": {
-        "date": "7th century CE onward",
-        "notes": "Peri incorporated into Islamic-era Persian literature with modifications"
+        "source": "Traditional folklore"
       }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Persian/Zoroastrian mythology. Possibly evolved from or related to ancient Persian concepts of supernatural beings and spirits of nature and air.",
-      "earliest_accounts": "Pre-Islamic Persian traditions and Zoroastrian religious context.",
-      "islamic_era": "Adapted into Islamic-era Persian culture and literature, sometimes conflated with or distinguished from djinn."
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "Pre-7th century",
-        "event": "Ancient Persian/Zoroastrian traditions",
-        "significance": "Peri as part of Persian mythological worldview",
-        "source": "Persian mythology and Zoroastrian context"
-      },
-      {
-        "date": "7th century CE onward",
-        "event": "Islamic influence on Persian culture",
-        "significance": "Peri adapted into Islamic-era Persian literature",
-        "source": "Persian literary works"
-      },
-      {
-        "date": "Medieval period",
-        "event": "Persian literary golden age",
-        "significance": "Peri prominent in Persian poetry and literature (Ferdowsi, Nizami, etc.)",
-        "source": "Classical Persian literature"
-      },
-      {
-        "date": "1817",
-        "event": "Thomas Moore's 'Lalla Rookh'",
-        "significance": "Peri introduced to Western audiences through Romantic poetry",
-        "source": "\"Lalla Rookh: An Oriental Romance\" by Thomas Moore"
-      },
-      {
-        "date": "19th-20th centuries",
-        "event": "Influence on Western fairy concepts",
-        "significance": "Peri contributed to Western understanding of fairies and supernatural beings",
-        "source": "Literary and cultural exchange"
-      }
-    ],
-    "modern_era": "Peri remain part of Persian cultural heritage and folklore. They appear in modern Persian literature, art, and cultural references, though less prominently than in classical periods. The concept has influenced global fantasy literature."
+    "timeline": []
   },
-
-  "opposition": {
-    "divs_daevas": {
-      "name": "Divs (Daevas)",
-      "description": "Evil spirits and demons in Persian mythology",
-      "relationship": "Peri are enemies of divs and protect humans from them",
-      "symbolism": "Eternal struggle between good (peri) and evil (divs)"
-    }
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Peri as protectors of humanity",
-        "Tales of peri-human romance",
-        "Peri seeking redemption through good deeds",
-        "Battles between peri and divs"
-      ],
-      "beliefs": "Peri represent beauty, grace, redemption, and the possibility of salvation through virtue. They embody the struggle between good and evil."
-    },
-    "religious_context": {
-      "zoroastrian_roots": "Likely originated in or influenced by Zoroastrian dualistic worldview (good vs. evil forces)",
-      "islamic_era_adaptation": "Incorporated into Islamic-era Persian culture, sometimes distinguished from djinn, sometimes conflated",
-      "sensitivity_note": "Peri are part of Persian/Zoroastrian cultural tradition. Respectful treatment of cultural origins is important."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "\"Lalla Rookh: An Oriental Romance\" by Thomas Moore (1817) - 'The Peri and the Paradise'",
-        "Persian classical poetry (Ferdowsi, Nizami, Hafez, etc.)",
-        "Modern fantasy literature influenced by Persian mythology",
-        "Arabian Nights (some editions/translations include peri)"
-      ],
-      "influence": [
-        "Contributed to Western fairy concepts and etymology",
-        "Influenced Romantic-era poetry and Orientalist literature",
-        "Appears in fantasy role-playing games and literature",
-        "Persian cultural heritage celebrations"
-      ],
-      "art": [
-        "Persian miniature paintings depicting peri",
-        "Mughal art influenced by Persian traditions",
-        "Modern Iranian art and illustration"
-      ]
-    },
-    "symbolism": {
-      "meanings": [
-        "Redemption and second chances",
-        "Fallen grace seeking restoration",
-        "Beauty and aesthetic perfection",
-        "Guidance and protection",
-        "Struggle between good and evil",
-        "Benevolent feminine power"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
   "research": {
-    "researchers": [
-      {
-        "name": "Persian literature scholars",
-        "affiliation": "Various academic institutions",
-        "contribution": "Study of peri in classical and modern Persian literature",
-        "period": "Ongoing"
-      },
-      {
-        "name": "Zoroastrian studies scholars",
-        "affiliation": "Religious and academic institutions",
-        "contribution": "Research on pre-Islamic Persian mythology",
-        "period": "Ongoing"
-      }
-    ],
-    "ongoing_studies": "Contemporary research examines peri in Persian cultural heritage, their role in classical literature, evolution from Zoroastrian to Islamic-era contexts, and influence on global fairy mythology."
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "moore-1817",
-      "type": "book",
-      "title": "Lalla Rookh: An Oriental Romance",
-      "authors": ["Thomas Moore"],
-      "publication": "Various editions",
-      "date": "1817"
-    },
-    {
-      "id": "ferdowsi-shahnameh",
-      "type": "book",
-      "title": "Shahnameh (Book of Kings)",
-      "authors": ["Ferdowsi"],
-      "date": "c. 1010 CE",
-      "note": "Classical Persian epic containing references to Persian mythology"
-    },
-    {
-      "id": "rose-2001",
-      "type": "book",
-      "title": "Giants, Monsters, and Dragons: An Encyclopedia of Folklore, Legend, and Myth",
-      "authors": ["Carol Rose"],
-      "publication": "W.W. Norton",
-      "date": "2001",
-      "isbn": "978-0393322118"
-    }
-  ]
+  "sources": []
 }
