@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/peri",
     "maintainers": [
       {
@@ -16,71 +16,136 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "peri",
     "name": "Peri",
-    "aliases": [],
+    "aliases": [
+      { "name": "Pari", "language": "Persian (modern transliteration)", "region": "Iran, Afghanistan, Tajikistan" },
+      { "name": "Pari", "language": "Urdu / Hindi", "region": "South Asia" },
+      { "name": "Peri", "language": "Turkish, Azerbaijani", "region": "Anatolia, Caucasus, Central Asia" },
+      { "name": "Parig", "language": "Middle Persian (Pahlavi)", "region": "Sasanian Iran" },
+      { "name": "Pairika", "language": "Avestan", "region": "Ancient Iran" }
+    ],
     "category": "FAE_FOLKLORE",
-    "subcategory": "Persian Supernatural Being",
+    "subcategory": "Persian / Persianate winged supernatural being",
     "tags": [
-      "&-meaning"
+      "persian",
+      "iranian",
+      "central-asia",
+      "south-asia",
+      "winged",
+      "fairy",
+      "supernatural",
+      "shahnameh",
+      "div"
     ],
     "status": "documented",
     "description": {
-      "summary": "They are generally **benevolent spirits** who protect humans from evil forces, guide lost travelers, and oppose the malevolent **divs** (daevas) — the evil spirits of Persian mythology.",
-      "full": "They are generally **benevolent spirits** who protect humans from evil forces, guide lost travelers, and oppose the malevolent **divs** (daevas) — the evil spirits of Persian mythology. Peri possess powers including flight, magic, beauty that captivates mortals, and shape-shifting. Uniquely, peri are said to sustain themselves on **perfume and fragrance**, living on the scent of flowers and sweet aromas rather than physical food. Originating from Persian/Zoroastrian traditions, peri were adapted into Islamic-era Persian literature and culture. They influenced Western concepts of fairies (the words are etymologically related) and appear prominently in Persian poetry, including Thomas Moore's famous \\\"Lalla Rookh.\\\" Peri represent themes of **redemption**, fallen grace, beauty, and guidance, embodying the eternal struggle between good and evil. ⚠️ **Cultural Sensitivity**: Peri are part of Persian/Zoroastrian cultural tradition and heritage."
+      "summary": "The peri (Persian: pari) is a winged supernatural being of immense beauty in Persian and wider Persianate folklore, originally an ambivalent or malevolent class of spirits in pre-Islamic Iranian belief and later reinterpreted as a generally benevolent fairy-like being who opposes the malevolent divs.",
+      "full": "The peri (Persian pari, Avestan pairika) is one of the most iconic supernatural beings of the Persian and Persianate cultural worlds, attested across Iran, Afghanistan, Tajikistan, Pakistan, India, the Caucasus, Anatolia, and Central Asia. In the earliest Iranian religious tradition - the Avesta and Pahlavi literature - the pairika is a class of malevolent or seductive female demon associated with the dragons and demons opposed by Ahura Mazda. From the early Islamic period onwards, however, the figure undergoes a substantial moral re-evaluation: in Persian poetry and prose from the tenth century onward, paris are reimagined as winged, often female, beings of overwhelming beauty, sometimes benevolent allies to humans, and as a stock figure for the unattainable beloved in Sufi and courtly poetry. Paris are ruled in some traditions from the realm of Paristan; they oppose the ugly, malevolent divs (daevas). In folktales and epic literature - including episodes within Ferdowsi's Shahnameh and the One Thousand and One Nights tale 'Ahmad and Pari Banu' - they ally with, marry, abduct, or test mortal heroes. Paris are formally distinct from but often confused in popular usage with jinn; they survive into modern Persian, Turkic, and South Asian folk tradition and into world literature through works such as Thomas Moore's Lalla Rookh ('Paradise and the Peri', 1817) and Robert Schumann's oratorio Das Paradies und die Peri (1843)."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Persian pari, from Middle Persian parig, from Avestan pairika. The connection to English 'fairy' is contested in modern etymology; some scholars treat the resemblance as parallel inheritance or coincidence, others propose a shared Indo-European root meaning 'to enchant'.",
+      "meaning": "Possibly related to Persian par ('wing') in folk etymology; in earliest attestation a class of female demons.",
+      "first_use": "Avestan pairika, attested in the Yashts and Vendidad of the Avesta, the sacred literature of Zoroastrianism (composed and transmitted from the late Bronze Age into the early first millennium BCE)."
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "FAE_FOLKLORE",
-      "type": "Persian Supernatural Being",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Winged supernatural being",
+      "subtype": "Persianate fairy / spirit",
+      "variant": "Iranian / Persianate"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "div", "name": "Div / Daeva", "relationship": "counterpart", "description": "Ugly, malevolent demons opposed to the paris in post-Islamic Persian tradition" },
+      { "id": "jinn", "name": "Jinn", "relationship": "similar", "description": "Islamic class of unseen beings, frequently conflated with paris in popular usage" },
+      { "id": "houri", "name": "Houri", "relationship": "similar", "description": "Paradisiacal beings of Islamic eschatology, with which paris are sometimes assimilated in literary tradition" },
+      { "id": "apsara", "name": "Apsara", "relationship": "similar", "description": "Hindu/Buddhist celestial dancers; comparable South Asian winged-female-spirit class" },
+      { "id": "fae-folklore", "name": "European fairy folk", "relationship": "similar", "description": "Western fairy traditions to which paris are often (loosely) compared" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "Wings", "description": "Most often depicted with wings, especially in Islamic-period art and literature; flight is a defining attribute", "frequency": "common" },
+        { "feature": "Extreme beauty", "description": "Standard literary epithet; the peri is the canonical figure of beauty in Persianate poetry", "frequency": "always" },
+        { "feature": "Female form", "description": "Most commonly female, though male paris also appear in Persian and Turkic tradition", "frequency": "common" },
+        { "feature": "Bird-form transformation", "description": "Often transform into birds, especially via a feather-coat, in the swan-maiden tradition of Persian and Turkic folklore", "frequency": "occasional" }
+      ],
+      "morphology": "Anthropomorphic, usually winged, supernatural being; in some traditions described as flying in cloud-like green garments or transforming into birds (notably doves)."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Flight", "description": "Powered flight, central to the peri's identity in art and literature", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Magical / sorcerous power", "description": "Use sorcery, charms, and erotic magic; can cast love spells", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Shapeshifting", "description": "Particularly into birds via feather coats; in some narratives also into other forms", "frequency": "occasional", "evidence_level": "folklore" },
+      { "ability": "Abduction to Paristan", "description": "Take humans (especially heroes or beloveds) physically or psychologically to their otherworldly realm Paristan", "frequency": "occasional", "evidence_level": "folklore" },
+      { "ability": "Punishment of social transgressions", "description": "In some traditions punish those who violate moral or social norms", "frequency": "occasional", "evidence_level": "folklore" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "variable",
+      "disposition": "variable",
+      "social_structure": "variable",
+      "habitat_preference": ["mountains and high places", "gardens and orchards", "the realm of Paristan", "remote landscapes of Iran, Central Asia, and the Caucasus"],
+      "patterns": [
+        "Marry, ally with, or test mortal heroes",
+        "Oppose the divs",
+        "Inhabit invisible kingdoms in remote landscapes",
+        "Are summoned, controlled, or appeased through ritual specialists in some Central Asian traditions"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Peri / pari traditions span the Persianate cultural world: Iran, Afghanistan, Tajikistan, the Kurdish regions, Pakistan, parts of India, the Caucasus, Anatolia, and Central Asia.",
+      "continents": ["Asia", "Europe"],
+      "countries": ["Iran", "Afghanistan", "Tajikistan", "Uzbekistan", "Turkmenistan", "Pakistan", "India", "Turkey", "Azerbaijan", "Georgia", "Iraqi Kurdistan"],
+      "regions": ["Iranian Plateau", "Caucasus", "Anatolia", "Central Asia", "Hindu Kush", "South Asia"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Mountains of Iran and Central Asia",
+        "location": {
+          "description": "The mountainous landscapes - Alborz, Hindu Kush, Pamirs, Caucasus - are the canonical homes of paris in folklore",
+          "country": "Iran / Afghanistan / Tajikistan / Caucasus",
+          "region": "Iranian Plateau and Central Asia"
+        },
+        "peak_period": "Pre-Islamic to present",
+        "notes": "Paristan, the realm of paris, is consistently sited on remote mountains and otherworldly heights."
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "1000 BCE",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Avestan pairika in the Yashts of the Avesta; the underlying tradition is older than the surviving texts."
+      },
+      "peak_activity_periods": [
+        { "period": "10th-15th century CE", "description": "Major Persian literary period in which the peri is canonised as a figure of beauty and supernatural agency in the Shahnameh, in classical Persian poetry, and in ghazal tradition." },
+        { "period": "19th century to present", "description": "Adoption into European Romantic literature and music (Thomas Moore, Schumann), and continued presence in modern Persianate, Turkic, and South Asian popular culture." }
+      ]
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "The pairika is a pre-Zoroastrian and Zoroastrian Iranian figure, originally a malevolent class of spirits opposed by Ahura Mazda. Under Islam, the figure was extensively rehabilitated within Persian poetic and folkloric culture into the beautiful, often benevolent peri.",
+      "earliest_accounts": "Avestan Yashts (notably Yasht 13 and 19) and Pahlavi texts treat pairikas as malevolent demonic beings. The reimagined peri appears centrally in Persian literature from the 10th century onward.",
+      "folklore_connections": "Connected to the broader Indo-Iranian repertoire of supernatural beings; paralleled by apsaras (South Asia), houris (Islamic eschatology), and to the swan-maiden tradition of Eurasian folklore."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1000 BCE", "event": "Avestan pairika attested in the Yashts of the Avesta as a class of malevolent female demons", "significance": "Earliest layer of the tradition", "source": "Avesta - Yashts; Vendidad" },
+      { "date": "1010", "event": "Ferdowsi completes the Shahnameh, in which paris appear as supernatural beings interacting with Iranian heroes", "significance": "Canonisation of the peri in classical Persian literature", "source": "Ferdowsi - Shahnameh (c. 1010)" },
+      { "date": "1817", "event": "Thomas Moore publishes Lalla Rookh, including 'Paradise and the Peri'", "significance": "Major European Romantic adoption of the figure", "source": "Moore, T. - Lalla Rookh (1817)" },
+      { "date": "1843", "event": "Robert Schumann composes the secular oratorio Das Paradies und die Peri, after Moore", "significance": "Major Romantic musical adoption", "source": "Schumann, R. - Das Paradies und die Peri (1843)" }
+    ],
+    "modern_era": "Paris remain a living cultural reference across the Persianate, Turkic, and South Asian worlds, in classical poetry, naming practices, contemporary popular culture, and folk-religious practices in Central Asia and the Hindu Kush, where parikhwan ('peri-callers') continue ritual specialist roles."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
@@ -91,6 +156,7 @@
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
@@ -98,28 +164,101 @@
     "audio": [],
     "trace": []
   },
+
   "theories": {
-    "paranormal": [],
+    "paranormal": [
+      {
+        "name": "Supernatural beings of the Persianate cosmos",
+        "description": "Within Persianate folk and literary tradition, paris are real supernatural beings - originally malevolent, later (under Islam) reimagined as morally complex and often benevolent.",
+        "proponents": ["Persian, Turkic, and South Asian folk traditions"],
+        "evidence_cited": ["Continuity of belief across the Persianate world", "Active ritual specialists (parikhwan) in Central Asia"]
+      }
+    ],
     "scientific": [],
-    "skeptical": []
+    "skeptical": [
+      {
+        "name": "Literary and folkloric figure",
+        "description": "Modern scholarship treats paris as religious and literary figures whose form has shifted dramatically across pre-Zoroastrian, Zoroastrian, and Islamic Persian culture.",
+        "proponents": ["Iranian studies and folklore scholarship"],
+        "evidence_cited": ["Documented evolution from Avestan pairika to Islamic-era pari", "Comparative parallels across Eurasia"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Zoroastrian and pre-Islamic Iranian demonology (pairika)",
+        "Classical Persian Islamic literary tradition (peri)",
+        "Turkic and South Asian folk traditions",
+        "Central Asian and Hindu Kush parikhwan ritual tradition"
+      ],
+      "stories": [
+        "Episodes in Ferdowsi's Shahnameh involving paris",
+        "'Ahmad and Pari Banu' - One Thousand and One Nights",
+        "Thomas Moore - 'Paradise and the Peri' (1817)"
+      ],
+      "beliefs": "In classical and modern Persianate culture paris are emblematic of beauty and otherworldly grace, but also of ambivalent supernatural power; in some Central Asian traditions paris are partners and informants of ritual specialists."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
+      "literature": [
+        "Ferdowsi - Shahnameh (c. 1010)",
+        "Nizami Ganjavi - Khamsa (12th century)",
+        "Thomas Moore - Lalla Rookh: 'Paradise and the Peri' (1817)"
+      ],
+      "film_tv": [
+        "Iranian, Turkish, and South Asian film and television featuring paris in folklore-derived narratives"
+      ],
       "games": [],
-      "other": []
+      "music": [
+        "Robert Schumann - Das Paradies und die Peri (1843)"
+      ],
+      "other": [
+        "Persianate visual art and miniature painting depicting paris (Shahnameh manuscripts, Mughal painting)",
+        "'Pari' as a common female given name across the Persianate and Turkic worlds"
+      ]
     }
   },
+
   "research": {
     "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "organizations": [
+      { "name": "Encyclopaedia Iranica", "url": "https://www.iranicaonline.org", "focus": "Authoritative scholarly reference for Iranian and Persianate culture, including pari traditions" }
+    ],
+    "ongoing_studies": "Active research within Iranian studies, Central Asian studies, and Islamic studies on the cultural and religious history of the peri, including the parikhwan traditions of the Hindu Kush."
   },
-  "sources": []
+
+  "sources": [
+    {
+      "id": "wikipedia-pari",
+      "type": "website",
+      "title": "Pari",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Par%C4%AB",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "encyclopedia-com-peri",
+      "type": "website",
+      "title": "Peri",
+      "publication": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/literature-and-arts/classical-literature-mythology-and-folklore/folklore-and-mythology/peri",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ferdowsi-shahnameh",
+      "type": "book",
+      "title": "Shahnameh",
+      "authors": ["Abolqasem Ferdowsi"],
+      "date": "c. 1010"
+    },
+    {
+      "id": "moore-1817",
+      "type": "book",
+      "title": "Lalla Rookh",
+      "authors": ["Thomas Moore"],
+      "publication": "Longman, Hurst, Rees, Orme, and Brown",
+      "date": "1817"
+    }
+  ]
 }

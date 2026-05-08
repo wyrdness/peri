@@ -1,344 +1,156 @@
 # Peri
 
-> *"One Peri, beneath the dark earth, had languish'd many a year..."* — Thomas Moore, "Lalla Rookh"
+> The peri (Persian: pari) is a winged supernatural being of immense beauty in Persian and wider Persianate folklore, originally an ambivalent or malevolent class of spirits in pre-Islamic Iranian belief and later reinterpreted as a generally benevolent fairy-like being who opposes the malevolent divs.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-folklore-blue)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `peri` |
-| **Category** | FAE_FOLKLORE / ENTITY_SPIRIT |
-| **Classification** | Persian Supernatural Being |
-| **First Recorded** | Pre-Islamic era (Zoroastrian traditions) |
-| **Primary Region** | Persia/Iran, Central Asia |
-| **Status** | Traditional folklore |
+| **Category** | FAE_FOLKLORE |
+| **Subcategory** | Persian / Persianate winged supernatural being |
+| **First recorded** | 1000 BCE |
+| **Primary range** | Peri / pari traditions span the Persianate cultural world: Iran, Afghanistan, Tajikistan, the Kurdish regions, Pakistan, parts of India, the Caucasus, Anatolia, and Central Asia |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-**Peri** (also pari, پری) are supernatural beings from Persian mythology, depicted as extremely beautiful, winged creatures. According to some traditions, peri descended from **fallen angels** who were denied paradise for some impurity or transgression, and now seek redemption through good deeds.
-
-They are generally **benevolent spirits** who protect humans from evil forces, guide lost travelers, and oppose the malevolent **divs** (daevas) — the evil spirits of Persian mythology. Peri possess powers including flight, magic, beauty that captivates mortals, and shape-shifting.
-
-Uniquely, peri are said to sustain themselves on **perfume and fragrance**, living on the scent of flowers and sweet aromas rather than physical food.
-
-Originating from Persian/Zoroastrian traditions, peri were adapted into Islamic-era Persian literature and culture. They influenced Western concepts of fairies (the words are etymologically related) and appear prominently in Persian poetry, including Thomas Moore's famous "Lalla Rookh."
-
-Peri represent themes of **redemption**, fallen grace, beauty, and guidance, embodying the eternal struggle between good and evil.
-
-⚠️ **Cultural Sensitivity**: Peri are part of Persian/Zoroastrian cultural tradition and heritage.
+The peri (Persian pari, Avestan pairika) is one of the most iconic supernatural beings of the Persian and Persianate cultural worlds, attested across Iran, Afghanistan, Tajikistan, Pakistan, India, the Caucasus, Anatolia, and Central Asia. In the earliest Iranian religious tradition - the Avesta and Pahlavi literature - the pairika is a class of malevolent or seductive female demon associated with the dragons and demons opposed by Ahura Mazda. From the early Islamic period onwards, however, the figure undergoes a substantial moral re-evaluation: in Persian poetry and prose from the tenth century onward, paris are reimagined as winged, often female, beings of overwhelming beauty, sometimes benevolent allies to humans, and as a stock figure for the unattainable beloved in Sufi and courtly poetry. Paris are ruled in some traditions from the realm of Paristan; they oppose the ugly, malevolent divs (daevas). In folktales and epic literature - including episodes within Ferdowsi's Shahnameh and the One Thousand and One Nights tale 'Ahmad and Pari Banu' - they ally with, marry, abduct, or test mortal heroes. Paris are formally distinct from but often confused in popular usage with jinn; they survive into modern Persian, Turkic, and South Asian folk tradition and into world literature through works such as Thomas Moore's Lalla Rookh ('Paradise and the Peri', 1817) and Robert Schumann's oratorio Das Paradies und die Peri (1843).
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Pari | Persian (modern transliteration) / Iran, Afghanistan, Tajikistan |  |
+| Pari | Urdu / Hindi / South Asia |  |
+| Peri | Turkish, Azerbaijani / Anatolia, Caucasus, Central Asia |  |
+| Parig | Middle Persian (Pahlavi) / Sasanian Iran |  |
+| Pairika | Avestan / Ancient Iran |  |
 
-### Primary Name
-- **Peri** (پری) — From Persian, possibly related to Avestan "pairika" (though meanings evolved from negative to benevolent). Etymologically related to English word "fairy."
+## Etymology
 
-### Alternative Names
-
-| Name | Language | Meaning |
-|------|----------|---------|
-| Pari | Persian/Urdu | Variant spelling |
-| Fairy | English | Etymologically related, Western translation |
-| پری | Persian (script) | Original script |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: FAE_FOLKLORE
-├── Type: ENTITY_SPIRIT
-├── Subtype: Persian Supernatural Being
-└── Variant: Winged Spirit
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Djinn](/djinn) | Related | Islamic supernatural beings, sometimes conflated |
-| Fairies | Linguistic relative | Western fairies etymologically related |
-| Divs/Daevas | Opposite | Evil spirits, enemies of peri |
-| Angels | Related | Peri sometimes described as fallen angels |
+- **Origin**: Persian pari, from Middle Persian parig, from Avestan pairika. The connection to English 'fairy' is contested in modern etymology; some scholars treat the resemblance as parallel inheritance or coincidence, others propose a shared Indo-European root meaning 'to enchant'.
+- **Meaning**: Possibly related to Persian par ('wing') in folk etymology; in earliest attestation a class of female demons.
+- **First use**: Avestan pairika, attested in the Yashts and Vendidad of the Avesta, the sacred literature of Zoroastrianism (composed and transmitted from the late Bronze Age into the early first millennium BCE).
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Div / Daeva](../div/) — _counterpart_: Ugly, malevolent demons opposed to the paris in post-Islamic Persian tradition
+- [Jinn](../jinn/) — _similar_: Islamic class of unseen beings, frequently conflated with paris in popular usage
+- [Houri](../houri/) — _similar_: Paradisiacal beings of Islamic eschatology, with which paris are sometimes assimilated in literary tradition
+- [Apsara](../apsara/) — _similar_: Hindu/Buddhist celestial dancers; comparable South Asian winged-female-spirit class
+- [European fairy folk](../fae-folklore/) — _similar_: Western fairy traditions to which paris are often (loosely) compared
 
-### Physical Description
+---
+## Physical Description
 
-| Attribute | Description |
-|-----------|-------------|
-| **Appearance** | Extremely beautiful humanoid beings |
-| **Wings** | Possess wings allowing flight |
-| **Form** | Delicate, graceful, ethereal |
-| **Presence** | Luminous, radiant, glowing |
+- **Morphology**: Anthropomorphic, usually winged, supernatural being; in some traditions described as flying in cloud-like green garments or transforming into birds (notably doves).
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Wings | Allow flight | Always |
-| Extraordinary beauty | Captivating, ethereal beauty | Always |
-| Luminous presence | Radiant, glowing appearance | Common |
-| Delicate form | Graceful, otherworldly | Always |
+|---|---|---|
+| Wings | Most often depicted with wings, especially in Islamic-period art and literature; flight is a defining attribute | common |
+| Extreme beauty | Standard literary epithet; the peri is the canonical figure of beauty in Persianate poetry | always |
+| Female form | Most commonly female, though male paris also appear in Persian and Turkic tradition | common |
+| Bird-form transformation | Often transform into birds, especially via a feather-coat, in the swan-maiden tradition of Persian and Turkic folklore | occasional |
 
-### Abilities & Powers
+## Reported Abilities
 
-| Ability | Description | Frequency |
-|---------|-------------|-----------|
-| **Flight** | Fly through air with wings | Always |
-| **Magic** | Possess magical powers | Common |
-| **Captivating beauty** | Beauty that enchants mortals | Always |
-| **Shape-shifting** | Can change form | Occasional |
-| **Protection** | Protect humans from evil | Common |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Flight | Powered flight, central to the peri's identity in art and literature | common | folklore |
+| Magical / sorcerous power | Use sorcery, charms, and erotic magic; can cast love spells | common | folklore |
+| Shapeshifting | Particularly into birds via feather coats; in some narratives also into other forms | occasional | folklore |
+| Abduction to Paristan | Take humans (especially heroes or beloveds) physically or psychologically to their otherworldly realm Paristan | occasional | folklore |
+| Punishment of social transgressions | In some traditions punish those who violate moral or social norms | occasional | folklore |
 
-### Unique Characteristics
+## Behavior
 
-**Sustenance**: Peri are said to **live on perfume and fragrance** — they sustain themselves on the scent of flowers and sweet aromas rather than physical food.
-
----
-
-## Nature & Behavior
-
-### Disposition
-
-**Benevolent** — Generally good, protective of humans
-
-### Behavioral Patterns
-
-- Protect humans from evil forces (divs/daevas)
-- Guide lost travelers
-- Seek redemption for past transgressions
-- Oppose malevolent spirits
-- Aid the virtuous and pure-hearted
-
-### Origins (According to Tradition)
-
-**Tradition 1**: Descended from **fallen angels** denied paradise for some impurity or minor transgression, now seeking redemption through good deeds.
-
-**Tradition 2**: Ancient Persian spirits predating Islamic influence, part of Zoroastrian mythological worldview.
-
-### Relationship to Humanity
-
-- **Protective**: Shield humans from evil
-- **Benevolent**: Generally kind and helpful
-- **Romantic**: Some tales involve peri-human romantic relationships
-- **Guiding**: Lead lost travelers to safety
+- **Activity**: variable
+- **Disposition**: variable
+- **Social structure**: variable
+- **Habitat**: mountains and high places, gardens and orchards, the realm of Paristan, remote landscapes of Iran, Central Asia, and the Caucasus
 
 ---
+## Distribution
 
-## The Eternal Struggle: Peri vs. Divs
+Peri / pari traditions span the Persianate cultural world: Iran, Afghanistan, Tajikistan, the Kurdish regions, Pakistan, parts of India, the Caucasus, Anatolia, and Central Asia.
 
-### Divs (Daevas)
+### Hotspots
 
-**Divs** (also daevas) are the evil spirits and demons of Persian mythology — the opposite and enemies of peri.
-
-| Aspect | Peri | Divs |
-|--------|------|------|
-| **Nature** | Good, benevolent | Evil, malevolent |
-| **Purpose** | Protect humans | Harm and corrupt humans |
-| **Symbolism** | Light, beauty, redemption | Darkness, ugliness, destruction |
-| **Origin** | Fallen angels (some traditions) | Demonic forces |
-
-The conflict between peri and divs represents the **eternal struggle between good and evil**, a central theme in Zoroastrian and Persian mythology.
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Mountains of Iran and Central Asia | Iranian Plateau and Central Asia, Iran / Afghanistan / Tajikistan / Caucasus |  | Pre-Islamic to present |
 
 ---
-
-## Geographic & Cultural Distribution
-
-### Primary Range
-
-Persian/Iranian cultural sphere, extending through cultural and literary influence.
-
-**Countries**: Iran, Afghanistan, Tajikistan, Pakistan, India (through Persian literary influence), Central Asian regions
-
-### Cultural Significance
-
-| Region | Significance |
-|--------|--------------|
-| Persia/Iran | Origin, primary source of traditions |
-| Central Asia | Cultural influence through Persian heritage |
-| South Asia | Literary influence (Mughal courts, Urdu poetry) |
-
----
-
 ## Historical Timeline
 
-### Origins & Development
-
-| Period | Event | Significance |
-|--------|-------|--------------|
-| Pre-7th century | Ancient Persian/Zoroastrian traditions | Peri as part of Persian mythology |
-| 7th century CE onward | Islamic influence | Peri adapted into Islamic-era Persian literature |
-| Medieval period | Persian literary golden age | Peri prominent in poetry (Ferdowsi, Nizami, Hafez) |
-| 1817 | Thomas Moore's "Lalla Rookh" | Peri introduced to Western audiences |
-| 19th-20th centuries | Western influence | Contributed to Western fairy concepts |
-
-### Modern Era
-
-Peri remain part of Persian cultural heritage and folklore. They appear in modern Persian literature, art, and cultural references, though less prominently than in classical periods. The concept has influenced global fantasy literature and the Western understanding of fairies.
+| Date | Event | Significance |
+|---|---|---|
+| 1000 BCE | Avestan pairika attested in the Yashts of the Avesta as a class of malevolent female demons | Earliest layer of the tradition |
+| 1010 | Ferdowsi completes the Shahnameh, in which paris appear as supernatural beings interacting with Iranian heroes | Canonisation of the peri in classical Persian literature |
+| 1817 | Thomas Moore publishes Lalla Rookh, including 'Paradise and the Peri' | Major European Romantic adoption of the figure |
+| 1843 | Robert Schumann composes the secular oratorio Das Paradies und die Peri, after Moore | Major Romantic musical adoption |
 
 ---
+## Theories & Explanations
 
-## Literary Significance
+### Paranormal / Cryptozoological
 
-### Classical Persian Literature
+**Supernatural beings of the Persianate cosmos** _(Persian, Turkic, and South Asian folk traditions)_
 
-Peri appear prominently in classical Persian poetry and epics:
+Within Persianate folk and literary tradition, paris are real supernatural beings - originally malevolent, later (under Islam) reimagined as morally complex and often benevolent.
 
-- **Shahnameh** by Ferdowsi (c. 1010 CE) — Persian epic containing mythology
-- **Works of Nizami** (12th century) — Romantic epics
-- **Poetry of Hafez** (14th century) — Mystical and lyrical poetry
-- Numerous other classical Persian literary works
+### Skeptical
 
-### Western Introduction: "Lalla Rookh"
+**Literary and folkloric figure** _(Iranian studies and folklore scholarship)_
 
-**Thomas Moore's "Lalla Rookh: An Oriental Romance" (1817)** introduced peri to Western audiences through the poem **"Paradise and the Peri"**.
+Modern scholarship treats paris as religious and literary figures whose form has shifted dramatically across pre-Zoroastrian, Zoroastrian, and Islamic Persian culture.
 
-**Plot**: A peri, excluded from paradise, seeks to gain entry by bringing the gift most dear to heaven. After several attempts (a patriot's dying sigh, a lover's last drop of blood), she finally succeeds with **a repentant sinner's tear**.
 
-**Themes**: Redemption, the value of repentance, beauty and grace
+## Popular Culture
 
-This work significantly influenced Western Romantic literature and contributed to the Western concept of fairies.
+**Literature**: Ferdowsi - Shahnameh (c. 1010); Nizami Ganjavi - Khamsa (12th century); Thomas Moore - Lalla Rookh: 'Paradise and the Peri' (1817)
 
----
+**Film / TV**: Iranian, Turkish, and South Asian film and television featuring paris in folklore-derived narratives
 
-## Symbolism & Meaning
+**Music**: Robert Schumann - Das Paradies und die Peri (1843)
 
-### Core Themes
-
-Peri represent multiple symbolic meanings:
-
-| Theme | Meaning |
-|-------|---------|
-| **Redemption** | Second chances, seeking salvation |
-| **Fallen Grace** | Lost purity seeking restoration |
-| **Beauty** | Aesthetic and spiritual perfection |
-| **Guidance** | Protection and direction for the lost |
-| **Good vs. Evil** | Eternal struggle (peri vs. divs) |
-| **Benevolent Feminine Power** | Protective, nurturing supernatural force |
+**Other**: Persianate visual art and miniature painting depicting paris (Shahnameh manuscripts, Mughal painting); 'Pari' as a common female given name across the Persianate and Turkic worlds
 
 ---
+## Research
 
-## Cultural Significance
 
-### Persian/Zoroastrian Heritage
+### Organizations
 
-⚠️ **Cultural Sensitivity Note**: Peri are part of Persian/Zoroastrian cultural tradition and heritage. Respectful treatment of cultural origins is important.
+- [Encyclopaedia Iranica](https://www.iranicaonline.org) — Authoritative scholarly reference for Iranian and Persianate culture, including pari traditions
 
-### Religious Context
-
-**Zoroastrian Roots**: Likely originated in or influenced by the Zoroastrian dualistic worldview of good versus evil forces.
-
-**Islamic-Era Adaptation**: Incorporated into Islamic-era Persian culture, sometimes distinguished from djinn, sometimes conflated or confused with them.
-
-### Influence on Western Culture
-
-**Etymology**: The English word "**fairy**" is etymologically related to "peri" through linguistic evolution and cultural exchange.
-
-**Romantic Literature**: Influenced 19th-century Romantic and Orientalist literature.
-
-**Fantasy Genre**: Contributed to modern fantasy literature concepts of beautiful, winged supernatural beings.
+Active research within Iranian studies, Central Asian studies, and Islamic studies on the cultural and religious history of the peri, including the parikhwan traditions of the Hindu Kush.
 
 ---
+## Sources
 
-## Popular Culture & Art
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### Literature
-- *Lalla Rookh* by Thomas Moore (1817)
-- Persian classical poetry collections
-- Modern fantasy literature influenced by Persian mythology
-- Some editions of Arabian Nights
 
-### Visual Arts
-- Persian miniature paintings depicting peri
-- Mughal art influenced by Persian traditions
-- Modern Iranian art and illustration
-- Western Orientalist paintings
+## How to Report a Sighting
 
-### Modern Media
-- Fantasy role-playing games (Dungeons & Dragons, etc.)
-- Fantasy literature and worldbuilding
-- Cultural heritage celebrations
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Research & Scholarship
-
-### Areas of Study
-
-**Persian Literature**: Examination of peri in classical and modern Persian poetry and prose
-
-**Zoroastrian Studies**: Research on pre-Islamic Persian mythology
-
-**Comparative Mythology**: Connections between peri and other supernatural beings (djinn, fairies, angels)
-
-**Linguistic Studies**: Etymology and evolution of peri/fairy terminology
-
-### Ongoing Research
-
-Contemporary scholarship examines:
-- Peri in Persian cultural heritage
-- Evolution from Zoroastrian to Islamic-era contexts
-- Influence on global fairy mythology
-- Literary analysis of peri in classical texts
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const peri = await wyrd.getPhenomenon('peri');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/peri/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- Moore, T. (1817). *Lalla Rookh: An Oriental Romance*.
-- Ferdowsi. *Shahnameh (Book of Kings)* (c. 1010 CE).
-- Classical Persian poetry collections.
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
